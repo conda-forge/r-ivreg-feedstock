@@ -1,11 +1,11 @@
-About r-ivreg
-=============
+About r-ivreg-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ivreg-feedstock/blob/main/LICENSE.txt)
 
 Home: https://john-d-fox.github.io/ivreg/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ivreg-feedstock/blob/main/LICENSE.txt)
 
 Summary: Instrumental variable estimation for linear models by two-stage least-squares (2SLS) regression or by robust-regression via M-estimation (2SM) or MM-estimation (2SMM). The main ivreg() model-fitting function is designed to provide a workflow as similar as possible to standard lm() regression. A wide range of methods is provided for fitted ivreg model objects, including extensive functionality for computing and graphing regression diagnostics in addition to other standard model tools.
 
