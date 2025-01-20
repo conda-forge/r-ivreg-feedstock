@@ -1,4 +1,4 @@
-{% set version = "0.6-4" %}
+{% set version = "0.6-5" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/ivreg_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/ivreg/ivreg_{{ version }}.tar.gz
-  sha256: e2290f07b0dd28b7cf501b8429e77ddf724f91d6ce845474c93bc260d1deca82
+  sha256: 1341e661863b0ece5379ee1c20bfb47a212fd996cfe67d89aef5ade087d81c7d
 
 build:
   number: 0
